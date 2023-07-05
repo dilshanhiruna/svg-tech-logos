@@ -4,5 +4,22 @@
   "description": "library of SVG logos related to technology or programming",
   "main": "index.js",
   "author": "dilshanhiruna",
-  "license": "ISC"
+  "license": "ISC",
+  "types": "types/index.d.ts",
+  "files": [
+    " file_names.json"
+  ],
+  "keywords": [
+    "svg",
+    "logo",
+    "tech",
+    "programming",
+    "technology",
+    "logos",
+    "images",
+    "icons",
+    "svg-icons",
+    "svg-images",
+    "svg-logos"
+  ]
 }
