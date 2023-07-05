@@ -1,0 +1,8 @@
+{
+  "name": "svg-tech-logos",
+  "version": "1.0.0",
+  "description": "library of SVG logos related to technology or programming",
+  "main": "index.js",
+  "author": "dilshanhiruna",
+  "license": "ISC"
+}
